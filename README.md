@@ -12,9 +12,9 @@ Curious about how things work. Intentional about how they are built.
 
 ## 🚀 About Me
 
-I enjoy working across different layers of software — from interface design to backend architecture and intelligent systems.
+I enjoy working across different layers of software from interface design to backend architecture and intelligent systems.
 
-My work spans building structured APIs, designing modular backends, developing cross-platform applications, implementing algorithmic solutions, and integrating AI-driven workflows such as Retrieval-Augmented Generation.
+My work spans building structured APIs, designing modular backends, developing cross platform applications, implementing algorithmic solutions, and integrating AI driven workflows.
 
 I believe strong fundamentals combined with adaptability create real engineering impact.
 
