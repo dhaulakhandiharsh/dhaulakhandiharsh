@@ -1,50 +1,55 @@
-# Hi, I'm Harsh 👋
+<h1 align="center">Hi, I'm Harsh 👋</h1>
 
-AI-Focused Full-Stack Developer | Backend Engineer | Problem Solver  
+<p align="center">
+AI-Focused Full-Stack Developer • Backend Engineer • Problem Solver
+</p>
 
-I enjoy building intelligent, scalable applications that combine strong backend architecture with modern AI systems. My work focuses on creating structured, production-ready solutions rather than just feature-based prototypes.
+<p align="center">
+Building intelligent systems with scalable architecture and clean code.
+</p>
 
-## Featured Work
+---
 
-### RAG Document Question Answering System  
-A full-stack Retrieval-Augmented Generation system that allows users to upload documents and ask contextual questions using embeddings and semantic similarity search.  
-Built with FastAPI, React, and vector-based retrieval.
+## 🚀 About Me
 
-### CareerGenie – AI Resume Analyzer & Job Matcher  
-An AI-powered resume analysis and job matching platform developed using the MERN stack. Designed with secure authentication, structured APIs, and modular architecture.
+I am a full-stack developer with a strong interest in AI-driven systems and backend architecture.  
+I focus on building structured, production-ready applications rather than quick prototypes.
 
-### News App (React Native)  
-A cross-platform mobile news application with dynamic API integration and clean UI architecture.
+My recent work involves designing Retrieval-Augmented Generation systems, integrating LLMs into real applications, and combining modern frontend interfaces with scalable backend services.
 
-### DineTime – Restaurant Discovery Platform  
-A restaurant and dining discovery platform inspired by real-world food delivery systems. Built using full-stack JavaScript with a focus on structured component design.
+I transitioned from primarily working with Node.js to building AI pipelines in Python, expanding my backend expertise into intelligent system design.
 
-### DSA Playbook  
-A curated repository of Data Structures and Algorithms implementations with optimized logic and clean problem-solving approaches.
+---
 
-## Tech Stack
+## 🛠 Technical Stack
 
-Frontend  
-React, React Native, TailwindCSS, Vite  
+**Frontend**  
+React · React Native · TailwindCSS · Vite  
 
-Backend  
-Node.js, Express.js, FastAPI  
+**Backend**  
+Node.js · Express.js · FastAPI  
 
-Databases  
-MongoDB, PostgreSQL  
+**Databases**  
+MongoDB · PostgreSQL  
 
-AI Systems  
-RAG Architecture, Embeddings, Vector Similarity Search, LLM Integration  
+**AI Systems**  
+RAG Architecture · Embeddings · Vector Similarity Search · LLM Integration  
 
-## What Defines My Work
+---
 
-I focus on writing clean and structured code  
-I am comfortable adapting to new ecosystems, including transitioning from Node.js to Python for AI systems  
-I approach projects with system design thinking rather than isolated implementation  
-Strong foundation in Data Structures and Algorithms  
+## 🎯 Engineering Approach
 
-## Contact
+• I design systems with clarity and modular structure  
+• I prioritize maintainable and readable code  
+• I am comfortable learning new ecosystems quickly  
+• Strong foundation in Data Structures and Algorithms  
+
+---
+
+## 📫 Contact
 
 Email: harshdhaulakhandi122020@gmail.com  
 
-"I build systems with clarity, structure, and intent."
+<p align="center">
+<b>I build systems with architecture, clarity, and intent.</b>
+</p>
