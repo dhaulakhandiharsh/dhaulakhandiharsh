@@ -1,55 +1,81 @@
 <h1 align="center">Hi, I'm Harsh 👋</h1>
 
-<p align="center">
-AI-Focused Full-Stack Developer • Backend Engineer • Problem Solver
-</p>
+<h3 align="center">
+Engineer focused on building scalable systems and intelligent software
+</h3>
 
 <p align="center">
-Building intelligent systems with scalable architecture and clean code.
+Curious about how things work. Intentional about how they are built.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a full-stack developer with a strong interest in AI-driven systems and backend architecture.  
-I focus on building structured, production-ready applications rather than quick prototypes.
+I enjoy working across different layers of software — from interface design to backend architecture and intelligent systems.
 
-My recent work involves designing Retrieval-Augmented Generation systems, integrating LLMs into real applications, and combining modern frontend interfaces with scalable backend services.
+My work spans building structured APIs, designing modular backends, developing cross-platform applications, implementing algorithmic solutions, and integrating AI-driven workflows such as Retrieval-Augmented Generation.
 
-I transitioned from primarily working with Node.js to building AI pipelines in Python, expanding my backend expertise into intelligent system design.
-
----
-
-## 🛠 Technical Stack
-
-**Frontend**  
-React · React Native · TailwindCSS · Vite  
-
-**Backend**  
-Node.js · Express.js · FastAPI  
-
-**Databases**  
-MongoDB · PostgreSQL  
-
-**AI Systems**  
-RAG Architecture · Embeddings · Vector Similarity Search · LLM Integration  
+I believe strong fundamentals combined with adaptability create real engineering impact.
 
 ---
 
-## 🎯 Engineering Approach
+## 🛠 Technical Skills
 
-• I design systems with clarity and modular structure  
-• I prioritize maintainable and readable code  
-• I am comfortable learning new ecosystems quickly  
-• Strong foundation in Data Structures and Algorithms  
+### Languages
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+### Frontend & Mobile
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
+
+### Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI & Systems
+<p>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Integration-34495E?style=for-the-badge"/>
+</p>
+
+---
+
+## 📚 Core Strengths
+
+- Data Structures and Algorithms  
+- System Design Thinking  
+- Modular Architecture  
+- RESTful API Design  
+- Authentication & Secure Systems  
+- Clean Code Practices  
+- Rapid Adaptation to New Technologies  
 
 ---
 
 ## 📫 Contact
 
-Email: harshdhaulakhandi122020@gmail.com  
+📧 dhaulakhandiharsh1@gmail.com  
 
-<p align="center">
-<b>I build systems with architecture, clarity, and intent.</b>
-</p>
+<h3 align="center">
+Building with structure. Learning with intent.
+</h3>
